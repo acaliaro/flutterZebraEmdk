@@ -1,2 +1,8 @@
-# flutterZebraEmdk
-Zebra EMDK and Flutter application.
+# flutter_zebra_emdk
+
+Flutter app with Zembra EMDK Barcode reader
+
+## Getting Started
+
+For help getting started with Flutter, view our online
+[documentation](http://flutter.io/).
